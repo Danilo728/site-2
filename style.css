@@ -3,3 +3,24 @@
 margin: 0;
 padding: 0;
 }
+.cabeçalho
+{
+background-color: #BDEDFF;
+color:aqua
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+.logo-colégio
+{
+width:20%;
+justify-content: center;
+}
+.NOMEDAESCOLA
+{
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
